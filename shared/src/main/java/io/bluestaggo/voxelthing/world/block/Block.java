@@ -33,10 +33,10 @@ public class Block {
 	public static final Block LOG = new Block().withTex(new ColumnTexture(3, 1, 4, 1));
 	public static final Block LEAVES = new Block().withTex(4, 0).transparency(BlockTransparency.THICK);
 	public static final Block BIRCH_PLANKS = new Block().withTex(5, 0);
-	public static final Block BIRCH_LOG = new Block().withTex(new ColumnTexture(5, 1, 6 , 1));
+	public static final Block BIRCH_LOG = new Block().withTex(new ColumnTexture(5, 1, 6, 1));
 	public static final Block BIRCH_LEAVES = new Block().withTex(6, 0).transparency(BlockTransparency.THICK);
 	public static final Block ACACIA_PLANKS = new Block().withTex(9, 0);
-	public static final Block ACACIA_LOG = new Block().withTex(new ColumnTexture(9, 1, 10 , 1));
+	public static final Block ACACIA_LOG = new Block().withTex(new ColumnTexture(9, 1, 10, 1));
 	public static final Block ACACIA_LEAVES = new Block().withTex(10, 0).transparency(BlockTransparency.THICK);
 	public static final Block SPRUCE_PLANKS = new Block().withTex(7, 0);
 	public static final Block SPRUCE_LOG = new Block().withTex(new ColumnTexture(7, 1, 8, 1));
